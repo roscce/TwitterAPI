@@ -1,0 +1,19 @@
+{
+  "name": "viberate",
+  "version": "1.0.0",
+  "description": "Twitter api project",
+  "main": "twit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "api"
+  ],
+  "author": "Luka Rosić",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "twit": "^2.2.11"
+  }
+}
